@@ -1,5 +1,5 @@
-### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### EX 1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
+### DATE: 08.08.2025
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -75,6 +75,9 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+ <img width="1029" height="769" alt="Screenshot 2025-08-08 at 10 56 50 AM" src="https://github.com/user-attachments/assets/e3968a51-ec96-4369-9fee-d2d9a201e8f8" />
+
+<img width="1028" height="773" alt="Screenshot 2025-08-08 at 11 04 55 AM" src="https://github.com/user-attachments/assets/b8cbff4d-9417-4d0a-bae0-16116f20cf01" />
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +94,8 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1030" height="772" alt="Screenshot 2025-08-08 at 10 57 20 AM" src="https://github.com/user-attachments/assets/2178b040-f5aa-40e6-8cda-3b97448f8473" />
+<img width="1027" height="768" alt="Screenshot 2025-08-08 at 11 00 48 AM" src="https://github.com/user-attachments/assets/768ce9e3-f76c-4497-b4c1-5015dce58b77" />
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +112,8 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+<img width="1028" height="771" alt="Screenshot 2025-08-08 at 10 55 25 AM" src="https://github.com/user-attachments/assets/f142e55c-aff7-4d80-af29-c3f4bc70d37e" />
+<img width="1026" height="772" alt="Screenshot 2025-08-08 at 11 01 55 AM" src="https://github.com/user-attachments/assets/93e57815-9553-47c7-b866-31dccf85ca27" />
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
